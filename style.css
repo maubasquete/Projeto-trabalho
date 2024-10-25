@@ -11,7 +11,7 @@ header{
 div{
     position: relative;
     height: 300px;
-    padding: 222;
+    width: 4400;
     background-color: yellow;
     
 
@@ -29,63 +29,3 @@ div{
 
             
     }
-
-    #bolsa{
-        background-color: lightgray;
-        position: absolute;
-        height: 700px;
-        width: 500px;
-     
-
-    }
-    
- h2{
-    color: red;
- }
-
- #monitor{
-
-    background-color: lightgray;
-    position: absolute;
-    height: 700px;
-    width: 500px;
-    left: 511px;
-    
-    
-}
-
-#mouse{
-    background-color: lightgray;
-    position: absolute;
-    height: 700px;
-    width: 500px;
-    left:1014px;
-    
-
-}
-
-#teclado{
-    background-color: lightgray;
-    position: absolute;
-    height: 700px;
-    width: 500px;
-    left: 1518px;
-   
-
-}
-
-#headset{
-    background-color: lightgray;
-    position: absolute;
-    height: 700px;
-    width: 500px;
-    left: 2025px;
-
-}
-
-   
-    
-     
-
-
-
