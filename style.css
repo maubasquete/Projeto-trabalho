@@ -1,0 +1,48 @@
+body{
+    background-color: white;
+    
+
+}
+
+header{
+    text-align: center;
+}
+
+div{
+    position: relative;
+    height: 300px;
+    width: 4400;
+    background-color: yellow;
+    
+
+}
+   
+    #container{
+       
+        position: absolute;
+        height: 100px;
+        width: 400px ;
+        background-color: red;
+        left: calc(50%);
+        top: calc(50%);
+        transform: translate(-50%, -50%);
+
+            
+    
+    }
+
+    #Maisvendido{
+        position: relative;
+        background-color: orange;
+        height: 50px;
+        width: 300px;
+        left: calc(8%);
+        top: calc(30%);
+        transform: translate(-8%, -30%);
+
+    }
+    
+    #caixa{
+        width: 3000px;
+    }
+    
