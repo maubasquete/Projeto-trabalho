@@ -20,12 +20,15 @@ div{
     #container{
        
         position: absolute;
-        height: 100px;
-        width: 400px ;
+        height: 200px;
+        width: 600px ;
         background-color: red;
         left: calc(50%);
         top: calc(50%);
         transform: translate(-50%, -50%);
+        font-family: 'Montserrat', sans-serif; 
+  font-weight: 700; 
+  font-size: 2em;
 
             
     }
